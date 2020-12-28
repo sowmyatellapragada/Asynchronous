@@ -6,7 +6,7 @@ namespace Async_Await
     {
         static void Main(string[] args)
         {
-            AsyncAwaitDemo demo = new AsyncAwaitDemo();
+            Demo1 demo = new Demo1();
             //demo.DoStuff().GetAwaiter().GetResult();
 
             //for (int count = 0; count < 10; count++)
